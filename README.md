@@ -11,6 +11,7 @@ Other Note: Music and visuals in the Nightlord arenas WILL be buggy(for now).</p
 
 ## Setup & Installation:
 
+- **Requirements:** You must have Mod Engine 3 (ME3) installed to run the `.me3` file.
 - **Mod Folder:** The `mod` folder can be placed anywhere, but it must be in the same directory as the `EverdarksFull.me3` file.
 - **How to Launch:** Start the game by running `EverdarksFull.me3`. Once the game is running, you can safely close the `EverdarksFull.me3` window.
 
@@ -27,5 +28,6 @@ Other Note: Music and visuals in the Nightlord arenas WILL be buggy(for now).</p
 
 **Установка и настройка:**
 
+- **Требования:** Для запуска файла `.me3` необходимо установить Mod Engine 3 (ME3).
 - **Папка с модом:** Папку `mod` можно разместить где угодно, но она должна находиться в той же папке, что и файл `EverdarksFull.me3`.
 - **Как запускать:** Запустите игру, открыв файл `EverdarksFull.me3`. После того, как игра заработает, вы можете спокойно закрыть окно `EverdarksFull.me3`.
