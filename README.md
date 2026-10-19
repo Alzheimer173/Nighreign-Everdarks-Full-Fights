@@ -7,7 +7,7 @@ Other Note: Music and visuals in the Nightlord arenas WILL be buggy(for now).</p
 
 ## Only expeditions with modified Nightlords are available. Right now, this includes:
 - **Adel (Gaping Jaw)**: Maximum HP increased by 50%. Phase 2 starts at 66% max HP, Phase 3 starts at 33% max HP.
-<pre>(Therefore, only the Adel expedition is currently available).</pre>
+<pre>(Therefore, only the Adel expedition is currently available)</pre>
 
 ## Setup & Installation:
 
