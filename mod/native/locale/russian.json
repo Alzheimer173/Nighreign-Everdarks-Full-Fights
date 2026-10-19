@@ -1,0 +1,14 @@
+{
+
+	"MODMESSAGE_YUINEXUSPLAYERCOUNTREMAINING": "{} / {}",
+	"MODMESSAGE_YUINEXUSBEGINONEPLAYER": "Одиночный режим",
+	"MODMESSAGE_YUINEXUSBEGINTWOPLAYER": "До 6 игроков",
+	"MODMESSAGE_YUINEXUSBEGINTHREEPLAYER": "До 6 игроков",
+
+	"MODMESSAGE_YUINEXUSNOSEAMLESS": "Не удалось присоединиться к лобби\nХост не использует Seamless Co-op",
+	"MODMESSAGE_YUINEXUSWRONGSSR": "Не удалось присоединиться к лобби\nВерсия Seamless Co-op у хоста не совпадает",
+	"MODMESSAGE_YUINEXUSPAUSED": "Пауза",
+	"MODMESSAGE_YUINEXUSRESUMED": "Возобновлено",
+	
+	"CREDITS": "Yui"
+}

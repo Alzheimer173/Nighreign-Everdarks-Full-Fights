@@ -1,0 +1,12 @@
+profileVersion = "v1"
+
+[[packages]]
+id = "EverdarksFull"
+path = "mod"
+
+[[natives]]
+path = "mod/native/nrsc.dll"
+load_early = true
+
+[[supports]]
+game = "nightreign"
